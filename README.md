@@ -116,13 +116,13 @@ Untuk keluar dari kamera, tekan **Q**.
 ✅ **Wajah dikenali**
 
 ```
-![Contoh Hasil](Hasil/Terdaftar.png)
+![Contoh Hasil](Hasil/Terdaftar.jpg)
 ```
 
 ✅ **Wajah tidak dikenali**
 
 ```
-![Contoh Hasil](Hasil/Tak-Terdaftar.png)
+![Contoh Hasil](Hasil/Tak-Terdaftar.jpg)
 ```
 
 ## ➕ Menambahkan Wajah Baru
