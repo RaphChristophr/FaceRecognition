@@ -116,13 +116,13 @@ Untuk keluar dari kamera, tekan **Q**.
 ✅ **Wajah dikenali**
 
 ```
-Donal (92.7%)
+![3](https://github.com/user-attachments/assets/9ed962c0-663f-433e-a1f9-46d5f4246962)
 ```
 
 ✅ **Wajah tidak dikenali**
 
 ```
-Unknown
+![4](https://github.com/user-attachments/assets/90b9fb34-2ed2-4cab-a9e7-240a6151f4fe)
 ```
 
 ![Preview](https://dummyimage.com/800x400/cccccc/000000\&text=Contoh+Hasil+Face+Recognition)
