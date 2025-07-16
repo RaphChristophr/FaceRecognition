@@ -122,10 +122,10 @@ Untuk keluar dari kamera, tekan **Q**.
 ✅ **Wajah tidak dikenali**
 
 ```
-![4](https://github.com/user-attachments/assets/90b9fb34-2ed2-4cab-a9e7-240a6151f4fe)
+
 ```
 
-![Preview](https://dummyimage.com/800x400/cccccc/000000\&text=Contoh+Hasil+Face+Recognition)
+![Preview](![4](https://github.com/user-attachments/assets/90b9fb34-2ed2-4cab-a9e7-240a6151f4fe))
 
 ---
 
