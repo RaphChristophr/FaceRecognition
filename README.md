@@ -116,18 +116,14 @@ Untuk keluar dari kamera, tekan **Q**.
 ✅ **Wajah dikenali**
 
 ```
-![3](https://github.com/user-attachments/assets/9ed962c0-663f-433e-a1f9-46d5f4246962)
+![Contoh Hasil](Hasil/Terdaftar.png)
 ```
 
 ✅ **Wajah tidak dikenali**
 
 ```
-
+![Contoh Hasil](Hasil/Tak-Terdaftar.png)
 ```
-
-![Preview](![4](https://github.com/user-attachments/assets/90b9fb34-2ed2-4cab-a9e7-240a6151f4fe))
-
----
 
 ## ➕ Menambahkan Wajah Baru
 
