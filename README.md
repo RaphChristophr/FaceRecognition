@@ -116,7 +116,7 @@ Untuk keluar dari kamera, tekan **Q**.
 ✅ **Wajah dikenali**
 
 ```
-![Contoh Hasil](Hasil/Terdaftar.jpg)
+![alt text](https://github.com/RaphChristophr/FaceRecognition/blob/main/Hasil/Terdaftar.jpg?raw=true)
 ```
 
 ✅ **Wajah tidak dikenali**
